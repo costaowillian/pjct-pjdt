@@ -13,8 +13,8 @@ Antes de rodar o projeto, verifique se você tem os seguintes pré-requisitos:
 
 Clone o repositório para sua máquina local com o seguinte comando:
 
-```bash
-git clone https://github.com/costaowillian/pjct-pjdt.git
+```bash git clone https://github.com/costaowillian/pjct-pjdt.git```
+
 1. Abra o **Eclipse IDE**.
 2. No Eclipse, vá para **File** > **Import**.
 3. Selecione **Existing Projects into Workspace** e clique em **Next**.
